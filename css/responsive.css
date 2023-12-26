@@ -150,6 +150,8 @@ ul.navbar-nav {
 	}
 .navbar-collapse.in{
 overflow:hidden;
+background-color: #2b2b2b;
+    width: 50%;
 }
 .tab-img {
     top: 0;
@@ -257,6 +259,8 @@ ul.navbar-nav {
 	}
 .navbar-collapse.in{
 overflow:hidden;
+background-color: #2b2b2b;
+    width: 50%;
 }
 .tab-img {
     top: 0;
